@@ -1,0 +1,23 @@
+{
+  "name": "dx-questions",
+  "version": "1.0.0",
+  "description": "Dx questions.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "dx",
+    "react",
+    "redux"
+  ],
+  "author": "pierre.besson7@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "redux": "^3.0.4",
+    "redux-form": "^2.4.5",
+    "webpack": "^1.12.2"
+  }
+}
